@@ -3,7 +3,9 @@
 
 É um jogo de sobrevivência desenvolvido na plataforma **Construct 3**. O objetivo do jogo é sobreviver aos zumbis que nascem e tentar pontuar o máximo possível. A integração com a **Firebase Realtime Database** foi implementada para salvar a pontuação feita pelo jogador.
 
-## Comandos: 
+<a id="comandos"></a>
+
+## Comandos:
 
 - Use as teclas de direção "**WASD"**" ou as "**SETAS**" para mover.
 - Atire com o "**BOTÃO ESQUERDO**" do mouse.
@@ -27,7 +29,7 @@
 
 ![Firebase](https://github.com/guilhermetonin/jogofacef-domzombie/blob/1dcb91a740dadfbf953bcd54999fc82b315eca43/github/print3.png)
 
-   - Vídeo de exemplificação abaixo.<br><br>
+   - Vídeo para melhor entendimento abaixo.<br><br>
      
 
 https://github.com/user-attachments/assets/2d4f4e06-e101-4be6-812e-e1c5b3d9d2ef
@@ -60,5 +62,5 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 Este projeto é de **uso acadêmico** e **não tem fins comerciais**. Todos os direitos dos recursos utilizados **pertencem** aos respectivos autores. 
 
-<p align="right"><a href="#readme-top">Voltar ao início 🠕</a></p>
+<p align="right"><a href="#comandos">Voltar ao início 🠕</a></p>
 
